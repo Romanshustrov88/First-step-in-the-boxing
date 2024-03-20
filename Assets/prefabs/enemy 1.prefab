@@ -597,7 +597,7 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 1654ec2413acdbd4481c58b3371dbec3, type: 2}
+  - {fileID: 2100000, guid: 8352b3312b0a0b543bdc1d5389d8d3ec, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -622,7 +622,7 @@ SkinnedMeshRenderer:
   m_Quality: 0
   m_UpdateWhenOffscreen: 0
   m_SkinnedMotionVectors: 1
-  m_Mesh: {fileID: 4300000, guid: 535511bb156e7f54f83f305d96a1c4ce, type: 3}
+  m_Mesh: {fileID: -5198303329779848278, guid: baab02e4d676e80468149a64c9fea6f1, type: 3}
   m_Bones:
   - {fileID: 3628099323869959075}
   - {fileID: 1563166978129103508}
@@ -1454,7 +1454,7 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 1654ec2413acdbd4481c58b3371dbec3, type: 2}
+  - {fileID: 2100000, guid: 8352b3312b0a0b543bdc1d5389d8d3ec, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1479,7 +1479,7 @@ SkinnedMeshRenderer:
   m_Quality: 0
   m_UpdateWhenOffscreen: 0
   m_SkinnedMotionVectors: 1
-  m_Mesh: {fileID: 4300010, guid: 535511bb156e7f54f83f305d96a1c4ce, type: 3}
+  m_Mesh: {fileID: -3805727702800822411, guid: baab02e4d676e80468149a64c9fea6f1, type: 3}
   m_Bones:
   - {fileID: 9140539620521081862}
   - {fileID: 751364782495421902}
@@ -1770,7 +1770,7 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 1654ec2413acdbd4481c58b3371dbec3, type: 2}
+  - {fileID: 2100000, guid: 8352b3312b0a0b543bdc1d5389d8d3ec, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1795,7 +1795,7 @@ SkinnedMeshRenderer:
   m_Quality: 0
   m_UpdateWhenOffscreen: 0
   m_SkinnedMotionVectors: 1
-  m_Mesh: {fileID: 4300004, guid: 535511bb156e7f54f83f305d96a1c4ce, type: 3}
+  m_Mesh: {fileID: 5700323464400502045, guid: baab02e4d676e80468149a64c9fea6f1, type: 3}
   m_Bones:
   - {fileID: 3628099323869959075}
   - {fileID: 1463135873025185010}
@@ -2219,7 +2219,7 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 1654ec2413acdbd4481c58b3371dbec3, type: 2}
+  - {fileID: 2100000, guid: 8352b3312b0a0b543bdc1d5389d8d3ec, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2244,7 +2244,7 @@ SkinnedMeshRenderer:
   m_Quality: 0
   m_UpdateWhenOffscreen: 0
   m_SkinnedMotionVectors: 1
-  m_Mesh: {fileID: 4300008, guid: 535511bb156e7f54f83f305d96a1c4ce, type: 3}
+  m_Mesh: {fileID: 3069851768799079571, guid: baab02e4d676e80468149a64c9fea6f1, type: 3}
   m_Bones:
   - {fileID: 7368923009631544068}
   - {fileID: 2158565802069710544}
@@ -2533,7 +2533,7 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 1654ec2413acdbd4481c58b3371dbec3, type: 2}
+  - {fileID: 2100000, guid: 8352b3312b0a0b543bdc1d5389d8d3ec, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2558,7 +2558,7 @@ SkinnedMeshRenderer:
   m_Quality: 0
   m_UpdateWhenOffscreen: 0
   m_SkinnedMotionVectors: 1
-  m_Mesh: {fileID: 4300002, guid: 535511bb156e7f54f83f305d96a1c4ce, type: 3}
+  m_Mesh: {fileID: -41317662493893181, guid: baab02e4d676e80468149a64c9fea6f1, type: 3}
   m_Bones:
   - {fileID: 7368923009631544068}
   - {fileID: 3174809464725770271}
@@ -2650,7 +2650,7 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 1654ec2413acdbd4481c58b3371dbec3, type: 2}
+  - {fileID: 2100000, guid: 8352b3312b0a0b543bdc1d5389d8d3ec, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2675,7 +2675,7 @@ SkinnedMeshRenderer:
   m_Quality: 0
   m_UpdateWhenOffscreen: 0
   m_SkinnedMotionVectors: 1
-  m_Mesh: {fileID: 4300006, guid: 535511bb156e7f54f83f305d96a1c4ce, type: 3}
+  m_Mesh: {fileID: 1909601603269157886, guid: baab02e4d676e80468149a64c9fea6f1, type: 3}
   m_Bones:
   - {fileID: 3628099323869959075}
   - {fileID: 1463135873025185010}

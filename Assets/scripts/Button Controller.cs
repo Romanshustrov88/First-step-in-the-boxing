@@ -10,6 +10,6 @@ public class ButtonController : MonoBehaviour
 
     public void IdleButton()
     {
-        
+       
     }
 }
